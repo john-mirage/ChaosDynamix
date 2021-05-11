@@ -1,25 +1,26 @@
 ## 👋 About me
-I would like to be a Web developer focused on Javascript. I’m also looking to collaborate on open source projects
+I would like to be a Web developer focused on Python or Java or PHP. I’m also looking to collaborate on open source projects
 
 ## 👀 Interests
-- Web development (HTML, CSS, Javascript, Git, Docker)
+- Development (HTML, CSS, Javascript, Python, Java, PHP, Git, Docker)
+- Math
 - Linux (Arch Linux)
-- Emacs (for writing and Web development)
+- Emacs (Doom Emacs)
 
 ## 🌱 Learning
+- Math
 - HTML
-- CSS (BEM methodology)
-  - TailwindCSS framework
+- CSS (SCSS)
 - Javascript (ES5, ES6)
-  - React
-  - GatsbyJS
-  - NodeJS, NPM
-- Git
-- Docker
-- Emacs
-- Linux
+- Python
+- PHP (Symfony)
+- Java
+- Git (Github)
+- Docker and Docker compose
+- Emacs (Writting (Org, LaTeX) and development (Python, PHP, Java))
+- Linux (Arch Linux)
 
 ## 🚀 My projects
 - Arcadia (Personal guide to install Arch Linux on UEFI firmwares, NVME storage devices, Nvidia GPUs, Intel CPUs)
-- Andromeda (Personal website including my resume and my blog)
-- Chaosdynamix (Config files for my GitHub profile)
+- Andromeda (Personal website)
+- Chaosdynamix (Config files and GitHub profile)
