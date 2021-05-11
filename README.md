@@ -1,5 +1,5 @@
 ## 👋 About me
-I would like to be a Web developer focused on Python or Java or PHP. I’m also looking to collaborate on open source projects
+I would like to be a developer focused on Python or Java or PHP. I’m also looking to collaborate on open source projects
 
 ## 👀 Interests
 - Development (HTML, CSS, Javascript, Python, Java, PHP, Git, Docker)
