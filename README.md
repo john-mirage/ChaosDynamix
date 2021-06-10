@@ -2,33 +2,33 @@
 I would like to be a developer focused on Python, Java or PHP. I’m also looking to collaborate on free and open source projects
 
 ## 👀 Interests
-- Development (HTML, CSS, Javascript, Python, Java, PHP, Git, Docker)
-- UI/UX design (Focused on Material design, Logo and Inkscape)
-- Math (Focused on Algorithms)
-- Linux (Focused on Arch Linux)
-- Emacs (Focused on documents writting and development)
+- **Development**
+- **UI/UX design**
+- **Linux**
 
 ## 🌱 Learning
 
-### In the past
-This list represents the subjects i learned in the past. The level of knowledge i have on those subjects is LOW as i am not a developer (i want to be one).
-- HTML5 (+SEO)
-- CSS3 (+SCSS)
-- Git (+GitHub)
-- Docker
-- Javascript ([Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu)
-- PHP ([Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu)
-- Regex (PHP and Javascript)
-- Linux
+#### Development
+| Module                     | State      | Informations                                                   |
+| :--------------------------| :--------- | :------------------------------------------------------------- |
+| Math                       | **Active** |                                                                |
+| Python                     | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu |
+| Java                       | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu |
+| SQL `+Postgresql`          | Planned    |                                                                |
+| HTML5 `+SEO`               | Paused     |                                                                |
+| CSS3 `+SCSS +BEM`          | Paused     |                                                                |
+| Git `+Github`              | Paused     |                                                                |
+| Docker `+Compose`          | Paused     |                                                                |
+| Javascript `+ES5 +Webpack` | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
+| PHP `+Composer +Symfony`   | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
+| Regex `+PHP +Javascript`   | Paused     |                                                                |
 
-### Current
-- Math (as a prerequisite for a developer)
-- Emacs (as main IDE)
-- Xmonad / Xmobar (as main window manager)
-
-### In the future
-- Python ([Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu)
-- Java ([Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu)
+#### Linux
+| Module                   | State      | Informations                                                   |
+| :----------------------- | :--------- | :------------------------------------------------------------- |
+| Editor `+Emacs +Vim`     | **Active** |                                                                |
+| Window Manager `+Xmonad` | **Active** |                                                                |
+| Virtualization `+QEMU`   | **Active** |                                                                |
 
 ## 🚀 My projects
 - [Arcadia](https://github.com/ChaosDynamix/Arcadia) (Personal documentation for the installation and configuration of Arch Linux on specific Hardware)
