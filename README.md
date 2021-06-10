@@ -23,6 +23,8 @@ This list represents the subjects i learned in the past. The level of knowledge 
 
 ### Current
 - Math (as a prerequisite for a developer)
+- Emacs (as main IDE)
+- Xmonad / Xmobar (as main window manager)
 
 ### In the future
 - Python ([Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu)
