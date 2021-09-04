@@ -9,20 +9,20 @@ I would like to be a developer focused on Python, Java or PHP. I’m also lookin
 ## 🌱 Learning
 
 #### Development
-| Module                                 | State      | Informations                                                   |
-| :------------------------------------- | :--------- | :------------------------------------------------------------- |
-| Javascript `+ES5 +Webpack +Typescript` | **Active** | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
-| Lua                                    | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 6kyu |
-| Python                                 | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 6kyu |
-| Java                                   | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu |
-| SQL `+Postgresql`                      | Planned    |                                                                |
-| Math                                   | Paused     |                                                                |
-| HTML5 `+SEO`                           | Paused     |                                                                |
-| CSS3 `+SCSS +BEM`                      | Paused     |                                                                |
-| Git `+Github`                          | Paused     |                                                                |
-| Docker `+Compose`                      | Paused     |                                                                |
-| PHP `+Composer +Symfony`               | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
-| Regex `+PHP +Javascript`               | Paused     |                                                                |
+| Module                                        | State      | Informations                                                   |
+| :-------------------------------------------- | :--------- | :------------------------------------------------------------- |
+| Javascript `+ES5 +Webpack +React +Typescript` | **Active** | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
+| Lua                                           | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 6kyu |
+| Python                                        | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 6kyu |
+| Java                                          | Planned    | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 7kyu |
+| SQL `+Postgresql`                             | Planned    |                                                                |
+| Math                                          | Paused     |                                                                |
+| HTML5 `+SEO`                                  | Paused     |                                                                |
+| CSS3 `+SCSS +BEM`                             | Paused     |                                                                |
+| Git `+Github`                                 | Paused     |                                                                |
+| Docker `+Compose`                             | Paused     |                                                                |
+| PHP `+Composer +Symfony`                      | Paused     | [Codewars](https://www.codewars.com/users/ChaosDynamix) - 4kyu |
+| Regex `+PHP +Javascript`                      | Paused     |                                                                |
 
 #### Linux
 | Module                       | State      | Informations                           |
