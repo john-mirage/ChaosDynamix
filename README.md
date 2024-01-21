@@ -1,6 +1,3 @@
-## 👋 About me
-I would like to be a web developer. I’m also looking to collaborate on free and open source projects
-
 ## 👀 Interests
 - **Development**
 - **UI/UX design**
